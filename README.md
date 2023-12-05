@@ -1,2 +1,0 @@
-# TypeScript
-Curso de typescript 
